@@ -30,7 +30,7 @@ Em breve, tutorial de instalação do projeto.
 
 ## Meta
 
-Edinelson Junior – [@SeuNome](https://twitter.com/...) – edinelsonjr.stm@gmail.com
+Cesar Benaion Lima – [@cesarbenaion](https://twitter.com/...) – cesarbenaion@gmail.com
 
 Distribuído sob a licença GIT. Veja `LICENSE` para mais informações.
 
