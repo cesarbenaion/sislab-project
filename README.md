@@ -19,8 +19,7 @@ Sistema realiza a gestão de:
 ## Instalação
 
 Linux:
-Em breve, tutorial de instalação do projeto.
-
+https://www.notion.so/cod3cafe/Configura-o-de-Ambiente-de-Produ-o-Sislab-62d94cfb3e554a77810770b12f8c62cc
 
 
 ## Histórico de lançamentos
