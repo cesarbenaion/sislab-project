@@ -26,6 +26,9 @@ https://www.notion.so/cod3cafe/Configura-o-de-Ambiente-de-Produ-o-Sislab-62d94cf
 
 * 0.0.1
     * Versão Inicial
+    
+    * versão online
+http://sislab-stm.herokuapp.com/home
 
 ## Meta
 
