@@ -34,7 +34,7 @@ Cesar Benaion Lima – [@cesarbenaion](https://twitter.com/...) – cesarbenaion
 
 Distribuído sob a licença GIT. Veja `LICENSE` para mais informações.
 
-[https://github.com/edinelsonjr32](https://github.com/edinelsonjr32/)
+[https://github.com/cesarbenaion](https://github.com/cesarbenaion/)
 
 ## Contributing
 
